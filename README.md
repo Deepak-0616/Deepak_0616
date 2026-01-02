@@ -1,6 +1,5 @@
 # Hi, I'm Deepak Sabarirajan
 
-Computer Science Student  
 MERN-Stack Web Developer | AI Explorer  
 
 I focus on building clean, responsive, and user-centered applications with a strong emphasis on real-world usability and UI consistency.
