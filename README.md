@@ -81,7 +81,7 @@ https://deepak-0616.github.io/Crunchyclone/
 </div>
 
 ---
-## 🐍 Contribution Snake
+## 🐍 Contribution stats
 
 <div align="center">
   <picture>
