@@ -52,10 +52,7 @@ https://deepak-0616.github.io/portfolio/
 ## 📂 Projects
 
 🔹 **Campus Facility Finder**  
-https://deepak-0616.github.io/campus_facility_finder  
-
-🔹 **Disaster Preparedness Platform**  
-https://deepak-0616.github.io/disaster_preparedness_platform/  
+https://deepak-0616.github.io/campus_facility_finder    
 
 🔹 **Capsule Corporation – Interactive Web Project**  
 https://replit.com/@kakarot0616/Capsulecorp?s=app  
