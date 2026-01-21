@@ -82,15 +82,20 @@ https://deepak-0616.github.io/Crunchyclone/
 
 ---
 
-## 🐍 Contribution 
-
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Deepak-0616/profile-3d-contrib/main/profile-night-rainbow.svg" 
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Deepak-0616/Deepak-0616/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Deepak-0616/Deepak-0616/output/github-contribution-grid-snake.svg" />
+    <img 
+      alt="GitHub Contribution Snake Animation" 
+      src="https://raw.githubusercontent.com/Deepak-0616/Deepak-0616/output/github-contribution-grid-snake.svg" 
+    />
+  </picture>
 </div>
-
 
 ---
 
