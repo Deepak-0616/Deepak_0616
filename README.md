@@ -55,7 +55,7 @@ https://deepak-0616.github.io/portfolio/
 https://deepak-0616.github.io/campus_facility_finder  
 
 🔹 **Disaster Preparedness Platform**  
-https://deepak-0616.github.io/disaster_preparedness_platform 
+https://deepak-0616.github.io/disaster_preparedness_platform/  
 
 🔹 **Capsule Corporation – Interactive Web Project**  
 https://replit.com/@kakarot0616/Capsulecorp?s=app  
@@ -64,40 +64,19 @@ https://replit.com/@kakarot0616/Capsulecorp?s=app
 https://github.com/Deepak-0616/todo_flutter_app/releases/download/v1.0.0/app-release.apk  
 
 🔹 **Crunchyroll-Style Frontend Clone**  
-https://deepak-0616.github.io/Crunchyclone
-
----
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- Overall GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Deepak-0616&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
-
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-0616&layout=compact&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
-
-</div>
+https://deepak-0616.github.io/Crunchyclone/
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=Deepak-0616&theme=tokyonight&hide_border=true" 
-  height="170"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-0616&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-0616&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
 
 ---
 
