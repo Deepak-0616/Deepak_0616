@@ -79,12 +79,8 @@ https://deepak-0616.github.io/Crunchyclone/
 
 ![Followers](https://img.shields.io/github/followers/Deepak-0616?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Deepak-0616?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepak-0616&style=for-the-badge)
 ![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
-![Public Repos](https://img.shields.io/github/repos/Deepak-0616?style=for-the-badge)
 ![Profile Status](https://img.shields.io/badge/Profile-Active-informational?style=for-the-badge)
 
 </div>
