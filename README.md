@@ -72,10 +72,28 @@ https://deepak-0616.github.io/Crunchyclone/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deepak-0616&show_icons=true&theme=tokyonight" width="33%"/>
-  <img src="https://github-readme-stats-git-masterrstaaaa-rickstaa.vercel.app/api/top-langs/?username=Deepak-0616&layout=compact&theme=tokyonight" width="33%"/>
-  <img src="https://streak-stats.demolab.com?user=Deepak-0616&theme=tokyonight" width="33%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-0616&show_icons=true" />
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/Deepak-0616?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Deepak-0616?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge)
+
 </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Deepak-0616&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Deepak-0616?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Deepak-0616?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Deepak-0616/Deepak-0616?style=for-the-badge)
+
+</div>
+
 
 ---
 ## 🐍 Contribution stats
