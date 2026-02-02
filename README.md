@@ -68,7 +68,7 @@ https://deepak-0616.github.io/Crunchyclone/
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Deepak-0616&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Deepak-0616&show_icons=true&hide_title=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Deepak-0616&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" height="165"/>
 
