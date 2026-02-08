@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=beb8b6&center=true&vCenter=true&width=650&lines=MERN-Stack+Web+Developer;AI+Explorer;Clean+UI+%7C+Real-World+Projects;Learning.+Building.+Improving." />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=beb8b6&center=true&vCenter=true&width=650&lines=MERN-Stack+Web+Enthusiasts;AI+Explorer;Clean+UI+%7C+Real-World+Projects;Learning.+Building.+Improving." />
   </a>
 </div>
 
